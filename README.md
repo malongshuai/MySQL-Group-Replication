@@ -1,6 +1,6 @@
-# MySQL-Group-Replication
+# 组复制MGR中文手册
 
-本文档为MySQL组复制官方手册的翻译。
+本文档为MySQL组复制MySQL-Group-Replication官方手册的翻译。
 
 译文请参见wiki文档：https://github.com/malongshuai/MySQL-Group-Replication/wiki
 
@@ -10,5 +10,5 @@
 
 **英文水平有限，如有错误，请指出**
 
-翻译人员：马龙帅
+翻译人员：马龙帅(骏马金龙www.junmajinlong.com)
 
